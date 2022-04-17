@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 rsync -avz \
+--exclude "backup" \
 --exclude=".git" --exclude=".gitignore" --exclude=".github" \
 . boisgera@eul.ink:/www/data-science
