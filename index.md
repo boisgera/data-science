@@ -74,7 +74,7 @@ As far as I know, the paperback book is also out of print.
 
 <div class="grid">
 <div>
-<div>**Probabilités et Statistiques (in French)**</div>
+<div>**Probabilités et Statistiques (🇫🇷)**</div>
 <div>[<i class="fa fa-file-pdf-o"></i>](documents/Harthong - Probabilités et Statistiques.pdf)
 /
 [<i class="fa fa-github"></i>](https://github.com/boisgera/harthong-prob)</div>
